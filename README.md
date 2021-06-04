@@ -1,4 +1,5 @@
-![bg-white](https://user-images.githubusercontent.com/84237812/120825096-ab8eb000-c576-11eb-9d80-6370bd3ae1a5.gif)
+![pug](https://user-images.githubusercontent.com/84237812/120825534-1c35cc80-c577-11eb-8b2d-c0ec7f10c45f.gif)
+
 - 👋 Hi, I’m @iminamar
 - 👀 I’m interested in projects/opensource
 - 🌱 I’m currently learning c/java/DSA
