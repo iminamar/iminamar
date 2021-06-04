@@ -1,7 +1,4 @@
-
-![7f89421f894717c5a59647627884d4ff](https://user-images.githubusercontent.com/84237812/120822308-e8a57300-c573-11eb-9c4c-24a57b5a834c.gif)
-
-
+![3](https://user-images.githubusercontent.com/84237812/120822985-8f8a0f00-c574-11eb-9f32-0ae58912e352.gif)
 - 👋 Hi, I’m @iminamar
 - 👀 I’m interested in projects/opensource
 - 🌱 I’m currently learning c/java/DSA
