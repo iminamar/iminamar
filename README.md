@@ -1,4 +1,5 @@
-![3](https://user-images.githubusercontent.com/84237812/120823917-89e0f900-c575-11eb-977b-c9ee0c0a15bc.gif)
+![pug](https://user-images.githubusercontent.com/84237812/120824664-4935af80-c576-11eb-886f-85467568b7a7.gif)
+
 
 
 - 👋 Hi, I’m @iminamar
